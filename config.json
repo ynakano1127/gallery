@@ -1,13 +1,17 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
-  "sort-albums-by": "title",
-  "sort-media-by": "filename",
+  "title": "ynakano1127's Gallery",
+  "sort-albums-by": "start-date",
+  "sort-albums-direction": "desc",
+  "sort-media-by": "date",
+  "photo-quality": 100,
+  "large-size": 4000,
   "download-photos": "copy",
   "cleanup": true,
+  "embed-exif": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Copyright (c) 2021 ynakano1127 All Rights Reserved",
   "usage-stats": false
 }
