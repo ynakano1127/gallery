@@ -5,7 +5,7 @@
   "sort-albums-by": "start-date",
   "sort-albums-direction": "desc",
   "sort-media-by": "date",
-  "photo-quality": 100,
+  "photo-quality": 90,
   "large-size": 4000,
   "download-photos": "copy",
   "cleanup": true,
