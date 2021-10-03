@@ -8,7 +8,7 @@
   "photo-quality": 90,
   "large-size": 4000,
   "download-photos": "copy",
-  "cleanup": true,
+  "cleanup": false,
   "embed-exif": true,
   "theme": "cards",
   "theme-style": "./custom.css",
