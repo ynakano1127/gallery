@@ -2,7 +2,7 @@
   "input": "./gallery",
   "output": "./build_output",
   "title": "ynakano1127's Gallery",
-  "sort-albums-by": "start-date",
+  "sort-albums-by": "title",
   "sort-albums-direction": "desc",
   "sort-media-by": "date",
   "photo-quality": 90,
